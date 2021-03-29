@@ -1,0 +1,33 @@
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto e167ac3c816942fab21ee60bd347844c --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot TB_inmultire_behav xil_defaultlib.TB_inmultire -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_signed
+Compiling package ieee.numeric_std
+Compiling package ieee.std_logic_unsigned
+Compiling architecture behavioral of entity xil_defaultlib.FDN [\FDN(n=32)\]
+Compiling architecture behavioral of entity xil_defaultlib.comparator [\comparator(n=31)\]
+Compiling architecture behavioral of entity xil_defaultlib.sum2 [sum2_default]
+Compiling architecture behavioral of entity xil_defaultlib.sum8 [sum8_default]
+Compiling architecture behavioral of entity xil_defaultlib.sumator [sumator_default]
+Compiling architecture behavioral of entity xil_defaultlib.comparator [\comparator(n=9)\]
+Compiling architecture behavioral of entity xil_defaultlib.FD [fd_default]
+Compiling architecture behavioral of entity xil_defaultlib.FDN [\FDN(n=8)\]
+Compiling architecture behavioral of entity xil_defaultlib.sum_el [sum_el_default]
+Compiling architecture behavioral of entity xil_defaultlib.inm [inm_default]
+Compiling architecture behavioral of entity xil_defaultlib.FDN [\FDN(n=48)\]
+Compiling architecture behavioral of entity xil_defaultlib.normalizare_rotunjire [normalizare_rotunjire_default]
+Compiling architecture behavioral of entity xil_defaultlib.prelucrareRezultat [prelucrarerezultat_default]
+Compiling architecture behavioral of entity xil_defaultlib.UC [uc_default]
+Compiling architecture behavioral of entity xil_defaultlib.inmultitor_VM [inmultitor_vm_default]
+Compiling architecture behavioral of entity xil_defaultlib.tb_inmultire
+Built simulation snapshot TB_inmultire_behav

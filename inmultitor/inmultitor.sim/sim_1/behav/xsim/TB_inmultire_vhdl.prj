@@ -1,0 +1,18 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../inmultitor.srcs/sources_1/imports/new/FD.vhd" \
+"../../../../inmultitor.srcs/sources_1/new/FDN.vhd" \
+"../../../../inmultitor.srcs/sources_1/new/comparator.vhd" \
+"../../../../inmultitor.srcs/sources_1/new/sum2.vhd" \
+"../../../../inmultitor.srcs/sources_1/new/sum8.vhd" \
+"../../../../inmultitor.srcs/sources_1/new/sumator.vhd" \
+"../../../../inmultitor.srcs/sources_1/new/inm.vhd" \
+"../../../../inmultitor.srcs/sources_1/new/normalizare.vhd" \
+"../../../../inmultitor.srcs/sources_1/new/prelucareRezultat.vhd" \
+"../../../../inmultitor.srcs/sources_1/new/UC.vhd" \
+"../../../../inmultitor.srcs/sources_1/new/inmultitor_VM.vhd" \
+"../../../../inmultitor.srcs/sources_1/new/sum_el.vhd" \
+"../../../../inmultitor.srcs/sim_1/new/TB_inmultire.vhd" \
+
+# Do not sort compile order
+nosort
